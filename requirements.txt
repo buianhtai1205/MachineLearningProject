@@ -3,3 +3,4 @@ streamlit-option-menu==0.3.2
 matplotlib==3.6.2
 numpy==1.23.4
 sklearn==0.0.post1
+scikit-learn==1.2.0
