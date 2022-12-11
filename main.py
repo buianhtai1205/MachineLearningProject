@@ -1,13 +1,3 @@
-import sys
-import tkinter
-from io import StringIO
-from tkinter import Frame, Tk, BOTH, Text, Menu, END
-from tkinter.filedialog import Open, SaveAs
-import cv2
-import numpy as np
-import pandas as pd
-from PIL import Image
-
 from subprocess import  call
 def open_my_file(fileOpen):
     call(["python", fileOpen])
